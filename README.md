@@ -1,3 +1,3 @@
 # CS340_Operating_System
-#School Project.
+# IMPORTANT: NOT A COMPLETE PROGRAM!
 #FOR REFERENCE ONLY! DO NOT COPY!
